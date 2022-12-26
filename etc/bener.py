@@ -12,8 +12,8 @@ def bnr():
        {anj}╠═╣│  │{im}    {anj}╠╣ │ │├┬┘  {im}║ ║│││├┤ 
        {im}╩ ╩┴─┘┴─┘{anj}  {im}╚  └─┘┴└─  {anj}╚═╝┘└┘└─┘
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-{kun}[$] Author : {kin}abilseno11
+{kun}[$] Author : {kin}verdi dev
 {kun}[$] Nama SC : {kin}Spam All For One
-{kun}[$] Github : {kin}https://github.com/AbilSeno
+{kun}[$] Github : {kin}https://github.com/verdihatorou
 {kun}[$] Youtube : {kin}Nothing
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••""")
